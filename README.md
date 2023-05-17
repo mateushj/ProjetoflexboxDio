@@ -6,6 +6,6 @@ O objetivo desse projeto foi aprender um pouco mais de **Flexbox**, que é bem u
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-*Visual Studio Code
-*HTML5
-*CSS3
+* Visual Studio Code
+* HTML5
+* CSS3
